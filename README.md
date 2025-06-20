@@ -35,7 +35,7 @@ To use this project locally, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/shaadclt/Multiple-Disease-Prediction-System.git
+https://github.com/Shailsharma2604/Multiple-Disease-Prediction-System
 ```
 
 2. Install the required dependencies by running:
@@ -74,6 +74,3 @@ Feel free to customize the web application's appearance, add more disease predic
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvement, please open an issue or submit a pull request on the project's GitHub repository.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to modify and use the code for both personal and commercial purposes.
